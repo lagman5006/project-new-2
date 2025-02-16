@@ -1,2 +1,7 @@
 def func1(prime: int)->int:
-    pass
+    return prime
+
+
+
+func2=func1(2)
+print(func2)
